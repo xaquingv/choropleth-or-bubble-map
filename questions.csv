@@ -1,0 +1,7 @@
+Questions,Choropleth,Proportional Symbol Map
+Are you dealing with a dataset with many central values and a few extreme outliers?,◦,•
+Does the data have a normal spread?,•,◦
+A uniform spread?,•,•
+Are we interested in identifying trends in the distribution?,•,◦
+Or extreme values?,◦,•
+Are the patterns an artifact of the regional breakdown?,◦,•
